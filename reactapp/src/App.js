@@ -16,7 +16,8 @@ export default class App extends Component {
 
   render() {
     let cards = this.props.cards.filter((card) => {
-      return card.id.toLowerCase().indexOf(this.state.query) > -1;
+      return card.id.toLowerCase().indexOf(this.state.query) > -1
+             || card.name.toLowerCase().indexOf(this.state.query) > -1
     }).map((card) => {
       return (<Card card={card} text={card.text}/>)
     }).reduce((a, b) => {
@@ -39,7 +40,7 @@ export default class App extends Component {
          <div className="container">
          <div className="row">
            <div className="six columns">
-             <label htmlFor="exampleEmailInput">Card id</label>
+             <label htmlFor="exampleEmailInput">Search</label>
              <input
               type="text"
               value={this.state.query}
