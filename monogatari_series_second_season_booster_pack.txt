@@ -1,0 +1,1940 @@
+Monogatari Series Second Season Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Mayoi Hachikuji, Overall Happiness
+総合的な幸せ 八九寺真宵
+Card No.: MG/S39-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: I am unhappy to have become a ghost. But I am happy to have met
+Araragi-san
+TEXT: [A] [(1) Put the top card of your Library in your Clock] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 Level 1 or lower Character, reveal it, put it in your hand, and shuffle
+your Library.
+[A] When this Side Attacks, choose 1 of your other Characters, and that
+Character gains +1500 Power for the turn.
+
+================================================================================
+
+Mayoi Hachikuji, Overall Happiness
+総合的な幸せ 八九寺真宵
+Card No.: MG/S39-001SP  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1) Put the top card of your Library in your Clock] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 Level 1 or lower Character, reveal it, put it in your hand, and shuffle
+your Library.
+[A] When this Side Attacks, choose 1 of your other Characters, and that
+Character gains +1500 Power for the turn.
+
+================================================================================
+
+"Oddity Killer" Shinobu Oshino
+“怪異殺し”忍野忍
+Card No.: MG/S39-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 2 or
+higher, this gains +1000 Power.
+[A] When the Battle Opponent of this becomes Reversed, if "Spell Chanting" is
+in your Climax Zone, search your Library for up to 1 ::Strange:: Character,
+reveal it, put it in your hand, and shuffle your Library.
+
+================================================================================
+
+"Oddity Killer" Shinobu Oshino
+“怪異殺し”忍野忍
+Card No.: MG/S39-002SP  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 2 or
+higher, this gains +1000 Power.
+[A] When the Battle Opponent of this becomes Reversed, if "Spell Chanting" is
+in your Climax Zone, search your Library for up to 1 ::Strange:: Character,
+reveal it, put it in your hand, and shuffle your Library.
+
+================================================================================
+
+Nadeko Sengoku, Goddess
+神様 千石撫子
+Card No.: MG/S39-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 神 (God)
+Triggers: None
+Flavor: Mister, talk with Nadeko
+TEXT: [A] When this becomes Reversed, if the Level of the Battle Opponent of
+this is 0 or lower, you may put that Character in Stock. If so, put the bottom
+card of your Opponent's Stock in the Waiting Room.
+[A] EXPERIENCE When this is placed from hand to the Stage, if '"Girl with
+Bangs" Nadeko Sengoku' is in your Level Zone, choose 1 of your Level 1 and
+higher Characters, and that Character gains +1 Soul for the turn.
+
+================================================================================
+
+Mayoi Hachikuji, Midday Nap
+お昼寝 八九寺真宵
+Card No.: MG/S39-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: "Hmm--"
+TEXT: [C] All your other ::Strange:: Characters gain +500 Power.
+[S] [(2) Rest this] Search your Library for up to 1 ::Strange:: Character,
+reveal it, put it in your hand, and shuffle your Library.
+
+================================================================================
+
+Mayoi Hachikuji, Midday Nap
+お昼寝 八九寺真宵
+Card No.: MG/S39-004S  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other ::Strange:: Characters gain +500 Power.
+[S] [(2) Rest this] Search your Library for up to 1 ::Strange:: Character,
+reveal it, put it in your hand, and shuffle your Library.
+
+================================================================================
+
+Nadeko Sengoku, Uroboro's Cat's Cradle
+ウロボロスのあやとり 千石撫子
+Card No.: MG/S39-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 神 (God)
+Triggers: Soul 
+Flavor: Hey! Do it, Kaiki-san!
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times Level of that Character.
+[A] When "Brand New Goddess" is placed in your Climax Zone, choose 1 of your
+Characters, and that Character gains the following ability for the turn. "[A]
+When the Battle Opponent of this becomes Reversed, you may choose 1 of your
+Opponent's Characters and return it to hand."
+
+================================================================================
+
+Nadeko Sengoku, Uroboro's Cat's Cradle
+ウロボロスのあやとり 千石撫子
+Card No.: MG/S39-005S  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 神 (God)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times Level of that Character.
+[A] When "Brand New Goddess" is placed in your Climax Zone, choose 1 of your
+Characters, and that Character gains the following ability for the turn. "[A]
+When the Battle Opponent of this becomes Reversed, you may choose 1 of your
+Opponent's Characters and return it to hand."
+
+================================================================================
+
+Shinobu Oshino, Tales of the Past
+昔話 忍野忍
+Card No.: MG/S39-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: The next time I came to Japan -- was about half a year ago
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 6 or
+higher, this gains +2500 Power and cannot be chosen as targets of your
+Opponent's effects.
+[A] During your Opponent's turn, when Damage taken by you isn't Cancelled, if
+this is in the Front Row, look at the top card of your Library and put it
+either on top of the Library or in the Waiting Room.
+
+================================================================================
+
+Shinobu Oshino, Tales of the Past
+昔話 忍野忍
+Card No.: MG/S39-006S  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 6 or
+higher, this gains +2500 Power and cannot be chosen as targets of your
+Opponent's effects.
+[A] During your Opponent's turn, when Damage taken by you isn't Cancelled, if
+this is in the Front Row, look at the top card of your Library and put it
+either on top of the Library or in the Waiting Room.
+
+================================================================================
+
+Mayoi Hachikuji, Smiles Until the "End"
+“最後”まで笑顔 八九寺真宵
+Card No.: MG/S39-007  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: Soul 
+Flavor: I loved you, Araragi-san
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] When this is placed from hand to the Stage, choose 1 of your ::Strange::
+Characters, and that Character gains +1 Soul and the following ability for the
+turn. "[A] This ability activates up to once per turn. When the Damage dealt by
+this is Cancelled, you may deal 1 Damage to your Opponent." Afterwards, at the
+start of your Encore Step, Send this to Memory. (Damage Cancel can occur)
+
+================================================================================
+
+Mayoi Hachikuji, Smiles Until the "End"
+“最後”まで笑顔 八九寺真宵
+Card No.: MG/S39-007R  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] When this is placed from hand to the Stage, choose 1 of your ::Strange::
+Characters, and that Character gains +1 Soul and the following ability for the
+turn. "[A] This ability activates up to once per turn. When the Damage dealt by
+this is Cancelled, you may deal 1 Damage to your Opponent." Afterwards, at the
+start of your Encore Step, Send this to Memory. (Damage Cancel can occur)
+
+================================================================================
+
+Shinobu Oshino, Partner with the Same Flesh
+一心同体のパートナー 忍野忍
+Card No.: MG/S39-008  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: You should be careful -- you know that I will destroy the world
+if you die
+TEXT: [C] All your other ::Strange:: Characters gain +500 Power.
+[A] EXPERIENCE [Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, if the sum of Levels of cards in your Level Zone
+is 4 or higher, you may pay cost. If so, search your Library for up to 1
+::Strange:: Character, reveal it, put it in your hand, and shuffle your Library.
+
+================================================================================
+
+Shinobu Oshino, Middle School Student
+中学生 忍野忍
+Card No.: MG/S39-009  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: I don't think you're cut out for stakeouts -- it's
+only been a few hours
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+[A] [(1) Put this in the Waiting Room] When your other ::Strange:: Character is
+Front Attacked, you may pay cost. If so, return that Character to hand.
+
+================================================================================
+
+Nadeko Sengoku, Information of the Object of Worship
+ご神体の情報 千石撫子
+Card No.: MG/S39-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: パジャマ (Pajama)
+Triggers: None
+Flavor: Yes! If we have that much information, it's like we have already
+found it
+TEXT: [C] During your turn, if all your Characters are ::Strange::, this gains
++2000 Power.
+
+================================================================================
+
+"Araragi-san Hating Act" Mayoi Hachikuji
+『阿良々木さん嫌いプレイ』八九寺真宵
+Card No.: MG/S39-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: I haven't lost my awareness as a girl by wondering into
+Araragi-san's house when parents and little sisters aren't around
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 2 or
+higher, this gains +1500 Power and "[A] ENCORE [Discard a Character card from
+your hand to the Waiting Room]".
+
+================================================================================
+
+Hachikuji Mayoi-san
+八九寺真宵さん
+Card No.: MG/S39-012  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Are you the ones who launched firework-like stuff here just now?
+TEXT: [A] When this becomes Reversed, if the Level of the Battle Opponent of
+this is higher than the Level of your Opponent, you may put that Character in
+Stock. If so, put the bottom card of your Opponent's Stock in the Waiting Room.
+
+================================================================================
+
+Kiss Shot Acerola Orion Heart Under Blade, Small Agreement
+少しの歩み寄り キスショット・アセロラオリオン・ハートアンダーブレード
+Card No.: MG/S39-013  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: My puny jealousy -- caused everything to fall apart
+TEXT: [A] When this is placed from hand to the Stage, search your Library for
+up to 1 ::Strange:: Character, reveal it, put it in your hand, and shuffle your
+Library.
+[S] [Rest 2 of your other Characters, put this face-down under a "Shinobu
+Oshino, Tales of the Past" that doesn't already have a Marker] Put all cards of
+your Opponent's Library in the Waiting Room, return all cards in your Waiting
+Room to the Library, and shuffle your Library.
+
+================================================================================
+
+Mayoi Hachikuji, Confused State
+混乱状態 八九寺真宵
+Card No.: MG/S39-014  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: Mayoi: "Araragi-san!" Koyomi: "What's up twin
+breasts!"
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When "Kiss in the Back...?" is placed in your Climax Zone, choose up to 2
+of your Characters, and they gain +1000 Power for the turn.
+
+================================================================================
+
+Koyomi Araragi, Time Travel
+時間移動 阿良々木暦
+Card No.: MG/S39-015  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: Is time warp something accomplished so easily?
+TEXT: [A] BOND/"Shinobu Oshino, Tales of the Past" [(1)]
+
+================================================================================
+
+Mayoi Hachikuji, Lost Girl
+迷子の少女 八九寺真宵
+Card No.: MG/S39-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Nadeko Sengoku, Lip Service Optimism
+口先だけでも前向き 千石撫子
+Card No.: MG/S39-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: In that case, shall we end the whole thing
+TEXT: [C] This cannot Side Attack.
+
+================================================================================
+
+Shinobu Oshino, Scornful Gaze
+軽蔑の眼差し 忍野忍
+Card No.: MG/S39-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: Good job. Being cute
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a Level 0 or lower Character, put this in your Stock.
+(Put the revealed card back where it was)
+
+================================================================================
+
+"Little Girl" Shinobo Oshino
+“幼女”忍野忍
+Card No.: MG/S39-019  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: Hey there, don't underestmate me. Do I really look like a tiny human
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from your hand to
+the Waiting Room]
+
+================================================================================
+
+Ougi Oshino, Unchanged Expression
+変わらぬ表情 忍野扇
+Card No.: MG/S39-020  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 謎 (Mystery)
+Triggers: Soul 
+Flavor: Well there -- it was a lot. Just like you know
+TEXT: [C] During your turn, for each of your other ::Strange:: Characters, this
+gains +500 Power.
+[A] ENCORE [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Shinobu Oshino, Ambiguous Response
+曖昧な返答 忍野忍
+Card No.: MG/S39-021  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: Returning to the future uses less energy compare to returning to the
+past. We're not going against the flow
+TEXT: [A] CHANGE [(1) Put this in the Waiting Room] At the start of your Encore
+Step, if this is Rested, you may pay cost. If so, choose a "Shinobu Oshino,
+Tales of the Past" in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Kurayami"
+『くらやみ』
+Card No.: MG/S39-022  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 3   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: Choose all your Opponent's Characters, then Send all other Opponent's
+Characters to Memory.
+Choose 1 of your ::Strange:: Characters, and that Character gains +1000 Power
+and +1 Soul for the turn.
+
+================================================================================
+
+Spell Chanting
+呪文詠唱
+Card No.: MG/S39-023  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: Crimson darkness that controls the chaos! We summon the sphere that
+controls the flow of time! Fill the sky with lightning from the repeated
+lighting of endings reached! Those who walk in the darkness and swim in ashes!
+Take on the cursed name and become the bringer!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Spell Chanting
+呪文詠唱
+Card No.: MG/S39-023R  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Brand New Goddess
+成りたての神様
+Card No.: MG/S39-024  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: It's Nadeko!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Kiss in the Back...?
+背中にキス…？
+Card No.: MG/S39-025  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Mayoi: "*nom* *nom*"
+TEXT: [A] When this is placed from hand to the Climax Zone, choose up to 1
+YELLOW card in your Waiting Room and put it in your Stock, and all your
+Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Hitagi Senjougahara, Words of Gratitude
+感謝の言葉 戦場ヶ原ひたぎ
+Card No.: MG/S39-026  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Thank you. I am grateful
+TEXT: [C] Your other Character in the Front Row Center Slot gains +500 Power.
+[S] BRAINSTORM [(1) Rest 2 of your Characters] Flip over the top 4 cards of
+your Library and put them in the Waiting Room. For each Climax card revealed
+this way, search your Library for up to 1 ::Strange:: Character, reveal it, put
+it in your hand, and shuffle your Library.
+
+================================================================================
+
+Hitagi Senjougahara, Words of Gratitude
+感謝の言葉 戦場ヶ原ひたぎ
+Card No.: MG/S39-026R  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] Your other Character in the Front Row Center Slot gains +500 Power.
+[S] BRAINSTORM [(1) Rest 2 of your Characters] Flip over the top 4 cards of
+your Library and put them in the Waiting Room. For each Climax card revealed
+this way, search your Library for up to 1 ::Strange:: Character, reveal it, put
+it in your hand, and shuffle your Library.
+
+================================================================================
+
+Tsubasa Hanekawa, Girl Stared at by the Tiger
+虎に睨まれた少女 羽川翼
+Card No.: MG/S39-027  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] If you have 2 or more other ::Strange:: Characters, this gains +1000
+Power.
+[A] When this is placed from hand to the Stage, look at the top card of your
+Library and put it either on top or bottom of the Library.
+[A] When this is placed from hand to the Stage, reveal the top card of your
+Library. If it's a ::Strange:: Character, this gains the following ability for
+the turn. "[A] When the Battle Opponent of this becomes Reversed, you may put
+that Character in Clock." (Put the revealed card back where it was)
+
+================================================================================
+
+Tsubasa Hanekawa, Girl Stared at by the Tiger
+虎に睨まれた少女 羽川翼
+Card No.: MG/S39-027SP  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 2 or more other ::Strange:: Characters, this gains +1000
+Power.
+[A] When this is placed from hand to the Stage, look at the top card of your
+Library and put it either on top or bottom of the Library.
+[A] When this is placed from hand to the Stage, reveal the top card of your
+Library. If it's a ::Strange:: Character, this gains the following ability for
+the turn. "[A] When the Battle Opponent of this becomes Reversed, you may put
+that Character in Clock." (Put the revealed card back where it was)
+
+================================================================================
+
+Koyomi Araragi, Serious Face
+真剣な面持ち 阿良々木暦
+Card No.: MG/S39-028  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: It is more dangerous than what you thought -- now's the
+chance to turn back
+TEXT: [A] When this is placed from hand to the Stage, you may put the top 3
+cards of your Library in your Waiting Room.
+[A] When your Opponent's Climax card is placed in the Climax Zone, you may put
+this in your Stock.
+
+================================================================================
+
+Koyomi Araragi, Serious Face
+真剣な面持ち 阿良々木暦
+Card No.: MG/S39-028S  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may put the top 3
+cards of your Library in your Waiting Room.
+[A] When your Opponent's Climax card is placed in the Climax Zone, you may put
+this in your Stock.
+
+================================================================================
+
+Hitagi Senjougahara, Coincidence?
+偶然？ 戦場ヶ原ひたぎ
+Card No.: MG/S39-029  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: Hmm, this is... Isn't it Karen-san.
+TEXT: [C] All your other ::Strange:: Characters gain +500 Power.
+[A] When "Making Good Friends" is placed in your Climax Zone, reveal the top
+card of your Library. If it's a ::Strange:: Character, put it in your Stock,
+choose 1 of your Characters, and that Character gains +500 Power for the turn.
+(Otherwise put it back where it was)
+
+================================================================================
+
+Hitagi Senjougahara, Coincidence?
+偶然？ 戦場ヶ原ひたぎ
+Card No.: MG/S39-029S  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other ::Strange:: Characters gain +500 Power.
+[A] When "Making Good Friends" is placed in your Climax Zone, reveal the top
+card of your Library. If it's a ::Strange:: Character, put it in your Stock,
+choose 1 of your Characters, and that Character gains +500 Power for the turn.
+(Otherwise put it back where it was)
+
+================================================================================
+
+Suruga Kanbaru, Complete Defeat
+完全敗北 神原駿河
+Card No.: MG/S39-030  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: "I used my last bit of willpower and held back the tears that were
+coming out"
+TEXT: [C] EXPERIENCE If '"Do It And Not Regret" Suruga Kanbaru' is in your
+Level Zone, this gains +1500 Power.
+[A] When this becomes Reversed in battle, you cannot use "[A] ENCORE" for the
+turn. (This includes "[A] ENCORE [(3)]" provided by rules)
+
+================================================================================
+
+Tsubasa Hanekawa, White And Transparent
+白くて白々しい 羽川翼
+Card No.: MG/S39-031  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 5 or
+higher, this gains +1500 Power.
+[A] When "Something I Wished For" is placed in your Climax Zone, if this is in
+the Front Row, choose up to 2 ::Strange:: Characters in your Waiting Room and
+put them in your Stock in any order.
+
+================================================================================
+
+"Do It And Not Regret" Suruga Kanbaru
+『やって後悔しない』神原駿河
+Card No.: MG/S39-032  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Those who say that it's better to do things and regret do not
+understand how it feels to "regret after doing things" - it's
+something only irresponsible people would say
+TEXT: [C] If there are 2 or fewer Climax cards in your Waiting Room, this gets
+-1 Level while in your hand.
+[A] When this is placed from hand to the Stage, this gains +4500 Power and the
+following ability until the next end of your Opponent's turn. "[C] During
+battles involving this card, no player may play BACKUP from hand."
+
+================================================================================
+
+"Do It And Not Regret" Suruga Kanbaru
+『やって後悔しない』神原駿河
+Card No.: MG/S39-032S  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If there are 2 or fewer Climax cards in your Waiting Room, this gets
+-1 Level while in your hand.
+[A] When this is placed from hand to the Stage, this gains +4500 Power and the
+following ability until the next end of your Opponent's turn. "[C] During
+battles involving this card, no player may play BACKUP from hand."
+
+================================================================================
+
+Hitagi Senjougahara, Waking up Early
+早起き 戦場ヶ原ひたぎ
+Card No.: MG/S39-033  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: パジャマ (Pajama)
+Triggers: None
+Flavor: Hanekawa-san, you're awake early in the morning...... it's only
+6 o'clock
+TEXT: [A] When this attacks, choose 1 of your ::Strange:: Characters, and that
+Character gains +1 Level and +1000 Power for the turn.
+
+================================================================================
+
+Tsubasa Hanekawa, Tiger-Striped Hair
+虎柄の髪 羽川翼
+Card No.: MG/S39-034  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] All your other "Hitagi Senjougahara, Expected Development" gain +1000
+Power.
+[A] BOND/"Hitagi Senjougahara, Expected Development" [Put the top card of your
+Library in your Clock]
+
+================================================================================
+
+Suruga Kanbaru, Being Herself
+自分らしく 神原駿河
+Card No.: MG/S39-035  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: I agree with Araragi-senpai's opinion. That's why I want to
+fight
+TEXT: [A] When this attacks, put the top 2 cards of your Library in your
+Waiting Room. If there are any Climax cards among them, this gets -3000 Power
+for the turn.
+
+================================================================================
+
+Suruga Kanbaru, Question of Time
+時間の問題 神原駿河
+Card No.: MG/S39-036  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Isn't that just running away? Only running away?
+TEXT: [C] If there are 5 or more cards in your Stock, this gains +3000 Power.
+
+================================================================================
+
+"Strategy" Karen Araragi
+“秘策”阿良々木火憐
+Card No.: MG/S39-037  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Hanekawa: "Those are Araragi-kun's little sisters over there,
+Araragi Karen-chan and Araragi Tsukihi-chan, the Fire Sisters"
+TEXT: [C] All your other Characters with either "Karen" and/or "Tsukihi" in
+name gain +1000 Power.
+[C] When you pay for the CHANGE cost of your Characters, you may put a Marker
+from under this in the Waiting Room in place of 1 Stock.
+[S] [Rest this] If there is no Marker under this, choose a Character in your
+Waiting Room with either "Karen" and/or "Tsukihi" in name and put it face-down
+under this as Marker.
+
+================================================================================
+
+"Devil-Sama" Rouka Numachi
+“悪魔様”沼地?花
+Card No.: MG/S39-038  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 悪魔 (Demon)
+Triggers: None
+Flavor: I didn't do anything. All I did was listen
+TEXT: [C] For each Marker under this, this gains +1 Level and +1500 Power.
+[A] When the Battle Opponent of this becomes Reversed, you may choose a "Parts
+of Devil" in your Waiting Room and put it face-down under this as Marker.
+
+================================================================================
+
+Deishuu Kaiki, the Last Report
+最後の報告 貝木泥舟
+Card No.: MG/S39-039  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: I'll call tonight, It'll be the last report most likely
+-- and I must prepare to celebrate with Araragi
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Opponent's Stock in the Waiting Room. If so, choose a card in your
+Opponent's Waiting Room and put it in Stock.
+[A] When this is placed from hand to the Stage, choose 1 of your Characters,
+and that Character gains +1000 Power for the turn.
+
+================================================================================
+
+Suruga Kanbaru, 1 on 1
+1on1 神原駿河
+Card No.: MG/S39-040  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: That's true, I forgot. About you. But now I remember everything
+TEXT: [C] All your other ::Strange:: Characters gain +500 Power.
+[A] When this is placed from hand to the Stage, you may choose a card in your
+Level Zone and a '"Do It And Not Regret" Suruga Kanbaru' in your Waiting Room
+and swap them.
+
+================================================================================
+
+Suruga Kanbaru, About Her Mother
+母親のこと 神原駿河
+Card No.: MG/S39-041  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: "I didn't think that person treated me as a child --
+but, then. That person was always the same. Maybe treated me as a daughter"
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+Rouka Numachi
+沼地?花
+Card No.: MG/S39-042  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 悪魔 (Demon)
+Triggers: Soul 
+Flavor: Kanbaru: "People mistake that a lot -- but I'm a very
+uninteresting person"
+TEXT: [C] All your other ::Strange:: Characters gain +1000 Power.
+[A] When this is placed from hand to the Stage, you may choose a '"Devil-sama"
+Rouka Numachi' and a "Parts of Devil" in your Waiting Room, and put the latter
+face-down under the former.
+[S] [Rest this] Choose 1 of your Characters with Marker, and that Character
+gains +1000 Power for the turn.
+
+================================================================================
+
+Hitagi Senjougahara Being Jumpy
+神経質な戦場ヶ原ひたぎ
+Card No.: MG/S39-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: パジャマ (Pajama)
+Triggers: Soul 
+Flavor: I'm quite jumpy, so I typically sleep light, but I slept quite well
+TEXT: [C] For each of your other ::Strange:: Characters, this gains +500
+Power.
+[A] When this is placed from hand to the Stage, reveal the top card of your
+Library. If it's a Level 0 or lower Character, put it in your Stock. (Otherwise
+put it back where it was)
+
+================================================================================
+
+Suruga Kanbaru, Serious Match
+真剣勝負 神原駿河
+Card No.: MG/S39-044  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Let's have a match, Numachi
+TEXT: [A] When this attacks or is Front Attacked, you may put the top card of
+your Library in your Waiting Room. If it's a ::Strange:: Character, this gains
++2500 Power for the turn.
+[A] When this attacks, if "Separate From Youth" is in the Climax Zone, discard
+your hand and draw the same number of cards.
+
+================================================================================
+
+Suruga Kanbaru, Fitting Hairstyle
+お似合いの髪型 神原駿河
+Card No.: MG/S39-045  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] EXPERIENCE If '"Do It And Not Regret" Suruga Kanbaru' is in your
+Level Zone, this gains +2500 Power.
+[A] When this is placed from hand to the Stage, if you have 4 or more other
+::Strange:: Characters, you may choose a ::Strange:: Character in your Waiting
+Room and put it in your Stock.
+
+================================================================================
+
+Deishuu Kaiki, Serving Meat
+肉奉行 貝木泥舟
+Card No.: MG/S39-046  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 肉 (Meat)
+Triggers: Soul 
+Flavor: Meat while you're young. Eating meat makes mankind happy, forgotten
+momento of Gaen
+TEXT: [A] When this is Front Attacked, reveal the top card of your Library. If
+it's a Climax card, put this in the Waiting Room. (Put the revealed card back
+where it was)
+
+================================================================================
+
+Parts of Devil
+悪魔のパーツ
+Card No.: MG/S39-047  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I'll take responsibilty and dispose the parts of devil that have
+been gathered up to this point
+TEXT: [Counter] Choose 1 of your ::Strange:: Characters, and that Character
+gains +3500 Power for the turn.
+
+================================================================================
+
+Something I Wished For
+望んでいたもの
+Card No.: MG/S39-048  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: "I have always wanted -- someone to do this for me"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Something I Wished For
+望んでいたもの
+Card No.: MG/S39-048R  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Making Good Friends
+親友に出来ること
+Card No.: MG/S39-049  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Please take care of Hanekawa-san
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Separate From Youth
+青春とけじめ
+Card No.: MG/S39-050  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: "You have lived a good juvenile life"
+TEXT: [A] When this is placed from hand to the Climax Zone, choose up to 1
+GREEN card in your Waiting Room and put it in your Stock, and all your
+Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Suruga Kanbaru, New School Semester
+新学期 神原駿河
+Card No.: MG/S39-051  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] If you have 2 or more other ::Strange:: Characters, this gains the
+following ability. "[A] When this becomes Reversed, if the Level of the Battle
+Opponent of this is 1 or lower, you may Reverse that Character."
+[A] When this becomes Reversed in battle, reveal the top card of your Library.
+If it's Level 2 or higher, you may return this to your hand. (Climax cards are
+considered Level 0 for this effect. Put the revealed card back where it was)
+
+================================================================================
+
+Suruga Kanbaru, New School Semester
+新学期 神原駿河
+Card No.: MG/S39-051SP  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If you have 2 or more other ::Strange:: Characters, this gains the
+following ability. "[A] When this becomes Reversed, if the Level of the Battle
+Opponent of this is 1 or lower, you may Reverse that Character."
+[A] When this becomes Reversed in battle, reveal the top card of your Library.
+If it's Level 2 or higher, you may return this to your hand. (Climax cards are
+considered Level 0 for this effect. Put the revealed card back where it was)
+
+================================================================================
+
+Hitagi Senjougahara, Serious Face
+真剣な面持ち 戦場ヶ原ひたぎ
+Card No.: MG/S39-052  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 文房具 (Stationery)
+Triggers: Soul 
+Flavor: No way. I won't allow it. I will not allow it
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 6 or
+higher, this gains +1500 Power.
+[A] When this is placed from hand to the Stage, draw up to 2 cards, and discard
+a card from your hand to the Waiting Room.
+[A] When this attacks, if "A Certain Winter Day" is in the Climax Zone, you may
+deal 1 Damage to your Opponent. (Damage Cancel can occur)
+
+================================================================================
+
+Hitagi Senjougahara, Serious Face
+真剣な面持ち 戦場ヶ原ひたぎ
+Card No.: MG/S39-052SP  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 文房具 (Stationery)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 6 or
+higher, this gains +1500 Power.
+[A] When this is placed from hand to the Stage, draw up to 2 cards, and discard
+a card from your hand to the Waiting Room.
+[A] When this attacks, if "A Certain Winter Day" is in the Climax Zone, you may
+deal 1 Damage to your Opponent. (Damage Cancel can occur)
+
+================================================================================
+
+Suruga Kanbaru, Fibbing with Words
+適当な誤魔化し方 神原駿河
+Card No.: MG/S39-053  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: It's nothing, Araragi-senpai just sent me that kind of message
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+Characters with EXPERIENCE, and that Character gains +2000 Power for the turn.
+[A] When this becomes Reversed, if the Level of the Battle Opponent of this is
+0 or lower, you may Reverse that Character.
+
+================================================================================
+
+Suruga Kanbaru, Fibbing with Words
+適当な誤魔化し方 神原駿河
+Card No.: MG/S39-053R  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+Characters with EXPERIENCE, and that Character gains +2000 Power for the turn.
+[A] When this becomes Reversed, if the Level of the Battle Opponent of this is
+0 or lower, you may Reverse that Character.
+
+================================================================================
+
+Mayoi Hachikuji, Kid Within the Storm
+渦中の子 八九寺真宵
+Card No.: MG/S39-054  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: Izuko Gaen: "The target 'Darkness' is after is that
+exhausted kid sleeping over there. Basically, Hachikuji Mayoi-chan"
+TEXT: [A] At the start of your Opponent's Attack Phase, you may choose a
+Character in your Opponent's Front Row and move it to another empty Slot in the
+Front Row. If not, put this in the Waiting Room.
+
+================================================================================
+
+Hitagi Senjougahara, For Lover's Sake
+恋人のためなら 戦場ヶ原ひたぎ
+Card No.: MG/S39-055  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, put the top 2 cards of
+your Library in your Waiting Room. If there are any Climax cards among them,
+Rest this.
+
+================================================================================
+
+Hitagi Senjougahara, For Lover's Sake
+恋人のためなら 戦場ヶ原ひたぎ
+Card No.: MG/S39-055S  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, put the top 2 cards of
+your Library in your Waiting Room. If there are any Climax cards among them,
+Rest this.
+
+================================================================================
+
+Hitagi Senjougahara, Doing Things for Future's Sake
+未来の為に出来ること 戦場ヶ原ひたぎ
+Card No.: MG/S39-056  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] EXPERIENCE [Discard a card from your hand to the Waiting Room] When
+this is placed from hand to the Stage, If the sum of Levels of cards in your
+Level Zone is 2 or higher, you may pay cost. If so, look at up to 4 cards from
+top of your Library and search for up to 1 ::Strange:: Character, reveal it,
+put it in your hand, and put the rest in the Waiting Room.
+
+================================================================================
+
+Hitagi Senjougahara, Doing Things for Future's Sake
+未来の為に出来ること 戦場ヶ原ひたぎ
+Card No.: MG/S39-056S  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] EXPERIENCE [Discard a card from your hand to the Waiting Room] When
+this is placed from hand to the Stage, If the sum of Levels of cards in your
+Level Zone is 2 or higher, you may pay cost. If so, look at up to 4 cards from
+top of your Library and search for up to 1 ::Strange:: Character, reveal it,
+put it in your hand, and put the rest in the Waiting Room.
+
+================================================================================
+
+"Young Girl" Mayoi Hachikuji
+“少女”八九寺真宵
+Card No.: MG/S39-057  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: I'm happy that you didn't ignore the traffic signal--
+TEXT: [C] This cannot Side Attack.
+[C] If you have 2 or more other ::Strange:: Characters, this gains +1000 Power.
+
+================================================================================
+
+"Young Girl" Mayoi Hachikuji
+“少女”八九寺真宵
+Card No.: MG/S39-057S  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] This cannot Side Attack.
+[C] If you have 2 or more other ::Strange:: Characters, this gains +1000 Power.
+
+================================================================================
+
+Koyomi Araragi, Advisor
+アドバイザー 阿良々木暦
+Card No.: MG/S39-058  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: Did something happen?
+TEXT: [C] All your other "Suruga Kanbaru, New School Semester" gain +1000
+Power.
+[A] BOND/"Suruga Kanbaru, New School Semester" [(1)]
+
+================================================================================
+
+Mayoi Hachikuji, Not Jumpy
+神経質じゃない 八九寺真宵
+Card No.: MG/S39-059  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: I don't care if you do it to me, you know?
+TEXT: [A] EXPERIENCE When your other ::Strange:: Character becomes Reversed in
+battle, if the sum of Levels of cards in your Level Zone is 3 or higher, choose
+1 of your Characters, and that Character gains +1000 Power for the turn.
+[S] [Rest 2 of your ::Strange:: Characters] Choose 1 of your Characters, and
+that Character gains +2000 Power for the turn.
+
+================================================================================
+
+Izuko Gaen, Working
+仕事中の臥煙伊豆湖
+Card No.: MG/S39-060  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: Sorry, but I'm bring Sword with me
+TEXT: [C] ASSIST All your ::Strange:: Characters in front of this gain +500
+Power and "[A] ENCORE [Discard a Character card from your hand to the Waiting
+Room]".
+[A] When your Climax is placed in the Climax Zone, choose 1 of your Characters,
+and that Character gains +1000 Power for the turn.
+
+================================================================================
+
+Hitagi Senjougahara, New Knowledge
+新たな認識 戦場ヶ原ひたぎ
+Card No.: MG/S39-061  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: Nah, I just didn't know anyone who didn't put any dressing on it
+TEXT: [C] If you have 2 or more other ::Strange:: Characters, this gains +1000
+Power.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Hitagi Senjougahara, Because of Work
+仕事上の関係 戦場ヶ原ひたぎ
+Card No.: MG/S39-062  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: Soul 
+Flavor: Because we're meeting due to work, I was asked to wear my uniform
+TEXT: [A] [(2) Put 1 of your Characters from Stage in the Waiting Room] When
+you use the BACKUP of this, you may pay cost. If so, choose 1 of your
+Opponent's Characters whose Level is higher than the Level of the Opponent and
+put it in the Waiting Room.
+[S] [Counter] BACKUP 2500, Level 2 [(1) Discard this card from your hand to the
+Waiting Room] 
+
+================================================================================
+
+Mayoi Hachikuji, Temporary Farewell
+暫しの別れ 八九寺真宵
+Card No.: MG/S39-063  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: Soul 
+Flavor: Well then! We shall meet again in the near future, Hanekawa-san!
+TEXT: [A] [(1)] When "Fated Encounter" is placed in your Climax Zone, if this
+is in the Front Row, you may pay cost. If so, all your Characters gain the
+following ability for the turn. "[A] When the Battle Opponent of this becomes
+Reversed, you may choose a Character in your Waiting Room and return it to your
+hand."
+[A] EXPERIENCE When your other ::Strange:: Character attacks, if the sum of
+Levels of cards in your Level Zone is 3 or higher, this gains +1500 Power for
+the turn.
+
+================================================================================
+
+Hitagi Senjougahari, You Understand?
+わかった気がする？ 戦場ヶ原ひたぎ
+Card No.: MG/S39-064  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: You can know how someone really is by eating their cooking - just like
+in a certain cooking manga
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When you or your Opponent Levels-Up, choose 1 of your Characters, and that
+Character gains +500 Power for the turn.
+
+================================================================================
+
+Suruga Kanbaru, Indecisive
+優柔不断 神原駿河
+Card No.: MG/S39-065  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: I thought that I should make that decision cleanly, but I can't
+really bring myself to do so
+TEXT: [C] All your other ::Strange:: Characters gain +500 Power.
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose a ::Strange:: Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Hitagi Senjougahara, Thinking of Friends
+友達想い 戦場ヶ原ひたぎ
+Card No.: MG/S39-066  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: Involve me in this. The least I can do is die alongside you
+TEXT: [A] [Discard a Climax card from your hand to the Waiting Room] When this
+is placed from hand to the Stage, you may pay cost. If so, choose a ::Strange::
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Izuko Gaen, Three Wishes
+三つのお願い 臥煙伊豆湖
+Card No.: MG/S39-067  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: Before I give Koyomin information that would help him, I have three
+things I'd like to ask
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+Characters, and that Character gains +1500 Power and the following three
+abilities until the next end of your Opponent's turn. "[C] During battles
+involving this, you cannot play BACKUP from hand." "[C] This cannot Side
+Attack." "[A] When this becomes Reversed in battle, you cannot use '[A] ENCORE'
+for the turn." (This includes "[A] ENCORE [(3)]" provided by rules)
+
+================================================================================
+
+Mayoi Hachikuji, Climbing the Walk Path
+歩む道のり 八九寺真宵
+Card No.: MG/S39-068  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: "This Hachikuji. This Mayoi Hachikuji was born out of our
+interactions within these few months"
+TEXT: [C] If this is in the Front Row Center Slot, this gains +2000 Power.
+
+================================================================================
+
+Hitagi Senjougahari, Expected Development
+予想通りの展開 戦場ヶ原ひたぎ
+Card No.: MG/S39-069  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: Soul 
+Flavor: Karen: "There is a bed for Tsubasa-san...... and there is also
+justice!"
+TEXT: [C] If you have 2 or more GREEN Characters and 2 or more RED Characters,
+this gets -1 Level while in your hand.
+
+================================================================================
+
+Tsukihi Araragi, Nadeko-chan's Classmate
+撫子ちゃんの同級生 阿良々木月火
+Card No.: MG/S39-070  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: That's right. But onii-chan, you have a girlfriend right?
+TEXT: [A] When your other ::Strange:: Character attacks, this gains +1500 Power
+for the turn.
+[A] CHANGE [Put this in the Waiting Room] At the start of your Encore Step, if
+this is Rested, you may pay cost. If so, choose up to 1 "Tsukihi Araragi,
+Undying Oddity" in your hand and put it in the Slot this was in.
+
+================================================================================
+
+Suruga Kanbaru, Unlucky Encounter
+不吉な遭遇 神原駿河
+Card No.: MG/S39-071  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Deishuu...... Kaiki
+TEXT: [A] When this attacks, if you have 2 or more other ::Strange::
+Characters, this gains +2000 Power for the turn.
+[A] [(1)] When the Battle Opponent of this becomes Reversed, if "Virtue of
+Human Hand" is in your Climax Zone, you may pay cost. If so, choose a Level 3
+or lower Character in your Opponent's Front Row and put it in the Waiting Room.
+
+================================================================================
+
+Clown Glasses
+鼻眼鏡
+Card No.: MG/S39-072  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 3   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [Counter] If there are 5 or more cards in your Library, choose up to 2
+cards in your Waiting Room and return them to your Library, and shuffle your
+Library. Send this to Memory.
+
+================================================================================
+
+A Certain Winter Day
+ある冬の日
+Card No.: MG/S39-073  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+A Certain Winter Day
+ある冬の日
+Card No.: MG/S39-073R  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Virtue of Human Hand
+人の手のありがたみ
+Card No.: MG/S39-074  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Ahh, it hurts -- it hurts, it hurts...... I'm glad
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, choose
+1 of your Characters, and that Character gains +2000 Power and +1 Soul for the
+turn.
+
+================================================================================
+
+Fated Encounter
+必然の出会い
+Card No.: MG/S39-075  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Well, well. Isn't this Hanekawa-san
+TEXT: [A] When this is placed from hand to the Climax Zone, choose up to 1 RED
+card in your Waiting Room and put it in your Stock, and all your Characters
+gain +1 Soul for the turn.
+
+================================================================================
+
+"Little Girl" Yotsugi Ononoki
+“童女”斧乃木余接
+Card No.: MG/S39-076  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 人形 (Doll)
+Triggers: None
+Flavor: Why is the vampire onii-chan grinning evilly
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a ::Strange:: Character, put it in your hand and discard
+a card from your hand to the Waiting Room. (Otherwise put it back where it
+was)
+[A] When this is placed from hand to the Stage, choose 1 of your ::Strange::
+Character, and that Character gains +1500 Power for the turn.
+
+================================================================================
+
+"Little Girl" Yotsugi Ononoki
+“童女”斧乃木余接
+Card No.: MG/S39-076R  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 人形 (Doll)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a ::Strange:: Character, put it in your hand and discard
+a card from your hand to the Waiting Room. (Otherwise put it back where it
+was)
+[A] When this is placed from hand to the Stage, choose 1 of your ::Strange::
+Character, and that Character gains +1500 Power for the turn.
+
+================================================================================
+
+"Girl with Bangs" Nadeko Sengoku
+“前髪娘”千石撫子
+Card No.: MG/S39-077  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage or via the effect of [A]
+ability of "Nadeko Sengoku, Goddess of the North White Snake Shrine" to the
+Stage, look at up to 3 cards from top of your Library and choose up to 1 of
+them and put it in your hand, and put the rest in the Waiting Room.
+[A] When this attacks, if "For the Sake of My Own Dream" is in the Climax Zone,
+put the top 5 cards of your Library in your Waiting Room, deal X Damage to your
+Opponent, and this gains +5000 Power for the turn. X is the number of Climax
+cards put in the Waiting Room this way. (Damage Cancel can occur)
+
+================================================================================
+
+"Girl with Bangs" Nadeko Sengoku' 
+“前髪娘”千石撫子
+Card No.: MG/S39-077SP  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage or via the effect of [A]
+ability of "Nadeko Sengoku, Goddess of the North White Snake Shrine" to the
+Stage, look at up to 3 cards from top of your Library and choose up to 1 of
+them and put it in your hand, and put the rest in the Waiting Room.
+[A] When this attacks, if "For the Sake of My Own Dream" is in the Climax Zone,
+put the top 5 cards of your Library in your Waiting Room, deal X Damage to your
+Opponent, and this gains +5000 Power for the turn. X is the number of Climax
+cards put in the Waiting Room this way. (Damage Cancel can occur)
+
+================================================================================
+
+Tsubasa Hanekawa, Temporary Farewell
+暫しの別れ 羽川翼
+Card No.: MG/S39-078  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Yes! See you later-
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] EXPERIENCE This ability activates up to once per turn. When you other
+::Strange:: Character is placed from hand to the Stage, if the sum of Levels of
+cards in your Level Zone is 3 or higher, look at the top card of your Library
+and put it either on top or bottom of the Library, and that Character gains
++500 Power for the turn.
+
+================================================================================
+
+Tsubasa Hanekawa, Temporary Farewell
+暫しの別れ 羽川翼
+Card No.: MG/S39-078S  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] EXPERIENCE This ability activates up to once per turn. When you other
+::Strange:: Character is placed from hand to the Stage, if the sum of Levels of
+cards in your Level Zone is 3 or higher, look at the top card of your Library
+and put it either on top or bottom of the Library, and that Character gains
++500 Power for the turn.
+
+================================================================================
+
+"Real" Tsubasa Hanekawa
+“本物”羽川翼
+Card No.: MG/S39-079  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] If there are 6 or more cards in your hand, this gains +1500 Power.
+
+================================================================================
+
+"Real" Tsubasa Hanekawa
+“本物”羽川翼
+Card No.: MG/S39-079S  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If there are 6 or more cards in your hand, this gains +1500 Power.
+
+================================================================================
+
+Nadeko Sengoku, Not Believing Anyone
+誰も信用しない 千石撫子
+Card No.: MG/S39-080  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: "My work was perfect. I have the confidence to say so"
+TEXT: [A] When this is placed from hand to the Stage, this gains +X Power for
+the turn. X = 500 times # of your ::Strange:: Characters.
+[A] When the Battle Opponent of this becomes Reversed, you may choose a card in
+your Level Zone and a card in your Waiting Room and swap them.
+
+================================================================================
+
+Black Hanekawa, Beginning of Oddity
+怪異の始まり ブラック羽川
+Card No.: MG/S39-081  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: "That girl -- That girl saw me. That is critical. That
+itself is important"
+TEXT: [C] ASSIST All your Level 3 or higher Characters in front of this gain
++2000 Power.
+[A] BOND/"Tsubasa Hanekawa, Girl Stared at by the Tiger" [(1)
+
+================================================================================
+
+Nadeko Sengoku, Goddess of the North White Snake Shrine
+北白蛇神社の神様 千石撫子
+Card No.: MG/S39-082  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: Soul 
+Flavor: Today I'll teach you cat's cradle!
+TEXT: [C] EXPERIENCE If "Nadeko Sengoku, Goddess" and '"Girl with Bangs" Nadeko
+Sengoku' are in your Level Zone, this gets -1 Level while in your hand.
+[C] If there is Marker under this, this gains the following ability. "[A] When
+this is placed from the Stage to the Waiting Room, you may choose a '"Girl with
+Bangs" Nadeko Sengoku' in your Waiting Room and put it Rested in the Slot this
+was in. If not, search your Library for up to 1 '"Girl with Bangs" Nadeko
+Sengoku' and put it Rested in the Slot this was in, and shuffle your Library."
+[A] When this is placed from hand to the Stage, you may choose 1 "Kuchinawa" in
+your Waiting Room and put face-down under this as Marker.
+
+================================================================================
+
+Nadeko Sengoku, Goddess of the North White Snake Shrine
+北白蛇神社の神様 千石撫子
+Card No.: MG/S39-082S  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] EXPERIENCE If "Nadeko Sengoku, Goddess" and '"Girl with Bangs" Nadeko
+Sengoku' are in your Level Zone, this gets -1 Level while in your hand.
+[C] If there is Marker under this, this gains the following ability. "[A] When
+this is placed from the Stage to the Waiting Room, you may choose a '"Girl with
+Bangs" Nadeko Sengoku' in your Waiting Room and put it Rested in the Slot this
+was in. If not, search your Library for up to 1 '"Girl with Bangs" Nadeko
+Sengoku' and put it Rested in the Slot this was in, and shuffle your Library."
+[A] When this is placed from hand to the Stage, you may choose 1 "Kuchinawa" in
+your Waiting Room and put face-down under this as Marker.
+
+================================================================================
+
+Tsubasa Hanekawa, Extended Hand Towards the "Past"
+『過去』に差し伸べる手 羽川翼
+Card No.: MG/S39-083  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Go home. It's -- curfew time. Let's have meal together
+TEXT: [A] When this is placed from hand to the Stage or when this becomes
+Reversed in battle, look at the top card of your Library and put it either on
+top or bottom of the Library.
+
+================================================================================
+
+Tsubasa Hanekawa, Extended Hand Towards the "Past"
+『過去』に差し伸べる手 羽川翼
+Card No.: MG/S39-083S  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage or when this becomes
+Reversed in battle, look at the top card of your Library and put it either on
+top or bottom of the Library.
+
+================================================================================
+
+Nadeko Sengoko, Unrequited Love
+叶わない恋 千石撫子
+Card No.: MG/S39-084  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: If you mean continuing an unrequited love, Koyomi onii-chan dying would
+be a lot more "romantic", no
+TEXT: [C] During your Opponent's turn, if this is in the Front Row Center Slot,
+this gains +2000 Power.
+
+================================================================================
+
+Yotsugi Ononoki, Former Human
+元人間 斧乃木余接
+Card No.: MG/S39-085  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 人形 (Doll)
+Triggers: None
+Flavor: You were formerly a human, no? Well -- onee-san says that
+you're still a human right now
+TEXT: [A] [(1)] When you use the BACKUP of this, you may pay cost. If so,
+choose 1 of your Level 1 or lower Characters with either "Koyomi" and/or
+"Mayoi" in name and send it to Memory, and at the start of your next Draw
+Phase, put that Character from your Memory in any Slot on the Stage.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Nadeko Sengoku, "Cute" Girl
+“かわいい”少女 千石撫子
+Card No.: MG/S39-086  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [C] EXPERIENCE If '"Girl with Bangs" Nadeko Sengoku' is in your Level
+Zone, this gains +1 Level and +1000 Power.
+
+================================================================================
+
+Tsubasa Hanekawa, Having Fun
+ノリノリな羽川翼
+Card No.: MG/S39-087  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: I'll go!
+TEXT: [C] EXPERIENCE During your Opponent's turn, if the sum of Levels of cards
+in your Level Zone is 2 or higher, this gains +2000 Power.
+
+================================================================================
+
+Nadeko Sengoku, Devilish Girl
+魔性の女 千石撫子
+Card No.: MG/S39-088  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this attacks, if the Level of the Character Opposite this is 3
+or higher, this gains +6000 Power for the turn.
+
+================================================================================
+
+Nadeko Sengoku, Time of Waiting
+待ちわびた時間 千石撫子
+Card No.: MG/S39-089  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: Ah, Kaiki-san! You have come!
+TEXT: [C] During your Opponent's turn, all your other ::Strange:: Characters
+gain +500 Power.
+[S] BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your Library and
+put them in the Waiting Room. For each Climax card revealed this way, draw up
+to 1 card.
+
+================================================================================
+
+"Snake Goddess Girl" Nadeko Sengoku
+“蛇神娘”千石撫子
+Card No.: MG/S39-090  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: None
+Triggers: None
+Flavor: In that case......, I have to fight properly
+TEXT: [A] [Put this in the Waiting Room] When this is Front Attacked, you may
+pay cost. If so, choose a "Nadeko Sengoku, Not Believing Anyone" in your hand
+and put it in the Slot this was in as Defending Character.
+
+================================================================================
+
+Koyomi Araragi, Spoken Form
+物語られた形姿 阿良々木暦
+Card No.: MG/S39-091  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: If you didn't work hard and delayed the tiger's arson by 10
+seconds or so, I wouldn't have made it in time. I would definitely have
+cried if that were the case
+TEXT: [A] [Put this in the Waiting Room] When your other ::Strange:: Character
+is Front Attacked, you may pay cost. If so, choose 1 of your Characters in
+battle, and that Character gains +1000 Power for the turn.
+
+================================================================================
+
+Young Tsubasa Hanekawa
+幼き頃の羽川翼
+Card No.: MG/S39-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Tsubasa Hanekawa, Burning Feelings of Love
+燃え盛る恋心 羽川翼
+Card No.: MG/S39-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: "Just looking at Araragi-kun makes this burn so much -- it
+has only been a couple of days"
+TEXT: [A] When this attacks, if you have 2 or more other ::Strange::
+Characters, this gains +2000 Power for the turn.
+[A] ENCORE [Put a ::Strange:: Character from your Waiting Room on the bottom of
+your Clock]
+
+================================================================================
+
+Black Hanekawa, Obstacle Cat
+障り猫 ブラック羽川
+Card No.: MG/S39-094  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Obstacle cat, well, it is true nya--
+TEXT: [C] For each Marker under this, this gains +2000 Power.
+[A] This ability activates up to once per turn. When the Battle Opponent of
+your other Characters becomes Reversed, if this is in the Front Row and "My Own
+Problems" is in your Climax Zone, you may choose a ::Strange:: Character in
+your Waiting Room and put it face-down under this as Marker.
+
+================================================================================
+
+Black Hanekawa, Favor From Master
+ご主人からのお願い ブラック羽川
+Card No.: MG/S39-095  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 怪異 (Strange)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Nyan
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+Yotsugi Ononoki, Unable to React
+されるがまま 斧乃木余接
+Card No.: MG/S39-096  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 怪異 (Strange)      Trait 2: 人形 (Doll)
+Triggers: Soul 
+Flavor: Shinobu: "Now, you! Do it!"
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When "Choice
+of Carnage" is placed in your Climax Zone, if this is in the Front Row, you may
+pay cost. If so, search your Library for up to 1 Character with "Shinobu" in
+name and up to 1 Character with "Mayoi" in name, reveal them, put them in your
+hand, shuffle your Library, and this gains +1000 Power for the turn.
+[A] [Put this in the Waiting Room] When your other ::Strange:: Character is
+Front Attacked, you may pay cost. If so, choose 1 of your Characters in battle,
+and that Character gains +4000 Power for the turn.
+
+================================================================================
+
+Kuchinawa
+クチナワ
+Card No.: MG/S39-097  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: "This makes you also one of my blood -- partner. I am
+counting on your atonement, Nadeko-chan"
+TEXT: Look at up to 4 cards from top of your Library and search for up to 1
+::Strange:: Character, reveal it, put it in your hand, and put the rest in the
+Waiting Room. 
+
+================================================================================
+
+For the Sake of My Own Dream
+自分だけの夢のために
+Card No.: MG/S39-098  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Gate 
+Flavor: Got it. I'll let you lie to me
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+For the Sake of My Own Dream
+自分だけの夢のために
+Card No.: MG/S39-098R  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Gate 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+My Own Problem
+自分自身の問題
+Card No.: MG/S39-099  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Hey, tiger -- -- I have come to meet you. Let's go
+home together
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Choice of Carnage
+修羅場な選択
+Card No.: MG/S39-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Shinobu: "Since the chance presented itself, I'd like you to be
+clear here. Which one of the three of us do you love the most?"
+TEXT: [A] When this is placed from hand to the Climax Zone, choose up to 1 BLUE
+card in your Waiting Room and put it in your Stock, and all your Characters
+gain +1 Soul for the turn.
+
+================================================================================
+
