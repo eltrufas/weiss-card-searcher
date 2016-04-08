@@ -19,7 +19,7 @@ print(number_regex.findall('54 65'))
 def parse_card(card):
     c = {}
     c['name'] = card[0].strip()
-    # c['weeb_name'] = card[1].strip()
+    c['weeb_name'] = card[1].strip()
     # c['trigger'] = card[6][10:].strip()
     # c['flavor'] = card[7][7:].strip()
     c['id'], _ = (x.strip() for x in
@@ -51,11 +51,15 @@ files = [
     'nisemonogatari_booster_pack.txt'
 ]
 
-cards = sum((get_cards(f) for f in files), [])
+for file in files:
+    out = open(file.split('.')[0] + '.json', 'w', encoding='utf8')
+    out.write(json.dumps({'cards': get_cards(file)}))
 
-out = open('output.json', 'w')
+'''cards = sum((get_cards(f) for f in files), [])
 
-out.write(json.dumps({'cards': cards}))
+out = open('output.json', 'w', encoding='utf8')
+
+out.write(json.dumps({'cards': cards}))'''
 
 '''for key, val in c.items():
     print(key, val)'''

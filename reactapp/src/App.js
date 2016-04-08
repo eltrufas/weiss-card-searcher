@@ -6,6 +6,7 @@ export default class App extends Component {
   constructor() {
     super()
     this.state = {
+      cards: [],
       query: ""
     }
     this.handleQueryChange = this.handleQueryChange.bind(this)
@@ -14,8 +15,16 @@ export default class App extends Component {
     this.setState({query: event.target.value})
   }
 
+  componentWillMount() {
+    fetch('dist/mg.json').then((res) => {
+      return res.json()
+    }).then((json) => {
+      this.setState({cards: json.cards})
+    })
+  }
+
   render() {
-    let cards = this.props.cards.filter((card) => {
+    let cards = this.state.cards.filter((card) => {
       return card.id.toLowerCase().indexOf(this.state.query) > -1
              || card.name.toLowerCase().indexOf(this.state.query) > -1
     }).map((card) => {

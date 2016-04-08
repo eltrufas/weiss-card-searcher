@@ -37,8 +37,16 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
+    "es6-promise": "^3.1.2",
+    "exports-loader": "^0.6.3",
+    "imports-loader": "^0.6.5",
     "json-loader": "^0.5.4",
     "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react-dom": "^0.14.0",
+    "react-redux": "^4.4.1",
+    "redux": "^3.3.1",
+    "redux-devtools": "^3.2.0",
+    "redux-immutable": "^3.0.6",
+    "whatwg-fetch": "^0.11.0"
   }
 }
